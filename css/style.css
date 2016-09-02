@@ -140,7 +140,11 @@ nav a:hover, nav a:active {
 	max-width: 100%;
 }
 
-#diapo #sshow { height: 355px; }
+#diapo #sshow {
+	height: 355px;
+	width: 1000px !important;
+}
+
 .carousel {
 	position: relative;
 }
@@ -412,7 +416,7 @@ color: #1D8AB8;
 
 *[class*="part"] {
 	display: inline-block;
-	margin: 3% 1.8% 0;
+	margin: 3% 2.6% 0;
 	text-align: center;
 	width: 22%;
 	vertical-align: top;
@@ -456,7 +460,7 @@ color: #1D8AB8;
 #section02 *[class*="part"] {
 	background: #575756;
 	height: 390px;
-	width: 220px;
+	width: 28%;
 	position: relative;
 }
 
@@ -474,10 +478,9 @@ color: #1D8AB8;
 	width: 96%;
 	height: 103px;
 	border-bottom: 2px solid #ffffff;
-	padding: 0 2%;
 	text-align: right;
 	color: #A0DCF0;
-	font: 400 2.5em/103px 'exolight', sans-serif;
+	font: 400 1.4em/103px 'exolight', sans-serif;
 	text-transform: uppercase;
 }
 
@@ -495,20 +498,20 @@ color: #1D8AB8;
 
 
 .content_offres {
-	width: 90%;
+	width: 94%;
 	padding: 10% 5% 0;
 	height: 201px;
 	border-bottom: 2px solid #ffffff;
 	text-align: left;
 }
 
-#section02  .content_offres h4, #section02  .content_offres .h4, #section02  .content_offres p.prix {
+/*#section02  .content_offres h4, #section02  .content_offres .h4, #section02  .content_offres p.prix {
 	text-align: left;
 	color: #ffffff;
 	font: 'allerbold', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 15px;
-}
+}*/
 
 #section02  .content_offres p {
 	text-align: left;
@@ -520,12 +523,12 @@ color: #1D8AB8;
 
 
 
-#section02  .content_offres p.prix {
+#section02  .sqr p.prix {
 	text-align: left;
-	font: 600 1.7em/1.7em 'allerregular', sans-serif;
+	font: 500 1.5em/1.7em 'allerregular', sans-serif;
 	text-transform:none;
 	margin-bottom: 0;
-	margin-top: 15px;
+	margin-top: 0;
 }
 
 #section02  .content_offres p.prix sup {

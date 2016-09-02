@@ -95,11 +95,6 @@
                     <div class="h3">Une relation de confiance</div>
     <p>Le savoir-faire est loin d’être le seul élément de la réussite d’un projet web : La confiance, la transparence et la proximité sont autant de valeurs que je prône pour garantir votre succès. Ma garantie : une confiance à tous les niveaux. Comment? En apprenant à vous connaitre et en vous présentant mon efficacité au travail.</p>
        </div><!-- end .part03 -->
-                <div class="part04">
-                    <h2><img src="img/part4.png" alt="experts en community management"></h2>
-                    <div class="h3">La présence</div>
-    <p>Une présence et une écoute permanente de vos attentes  – avec en bonus un gigaoctet de bonne humeur - rien de mieux pour collaborer et vous offrir une paix d’esprit sans un accroc...</p>
-       </div><!-- end .part04 -->
         </div> <!-- end .sec_container -->
     </section>  <!-- END_CORPS -->
 
@@ -107,36 +102,32 @@
       <div class="h2">Les Offres</div>
       <div class="sec_container">
     	<div class="part01">
-    		<div class="sqr">Formule 1</div>
+    		<div class="sqr">Pack Découverte
     		<div class="content_offres">
-    			<h3 class="h4">Pack Community management TPE</h3>
-    <p>- 1 demi journée / semaine</p>
-    <p>- 1 article / mois</p>
-    <p class="prix">249<sup>€ HT </sup>/ mois</p>		</div>
+    			<p>- 1 demi journée / semaine</p>
+                <p>- 1 article / mois</p>
+    	   </div>
+        <p class="prix">299<sup>€ HT </sup>/ mois</p>
+            </div>
     	</div><!-- end .part01 -->
     	<div class="part02">
-    		<div class="sqr">Formule 2</div>
+    		<div class="sqr">Pack Sérénité
     		<div class="content_offres">
-    			<h3 class="h4">Pack Community management PME</h3>
-    <p>- 2 heures / jour</p>
-    <p>- 1 article / semaine</p>
-    <p class="prix">499<sup>€ HT </sup>/ mois</p>		</div>
+    			<p>- 2 heures / jour</p>
+                <p>- 1 article / semaine</p>
+            </div>
+        <p class="prix">499<sup>€ HT </sup>/ mois</p>
+            </div>
     	</div><!-- end .part02 -->
     	<div class="part03">
-    		<div class="sqr">Formule 3</div>
+    		<div class="sqr">Pack Prestige
     		<div class="content_offres">
-    			<h3 class="h4">Pack Community management Prestige</h3>
-    <p>1 community manager</p>
-    <p>dédié à votre projet.</p>
-    <p class="prix">1599<sup>€ HT </sup>/ mois</p>		</div>
-    	</div><!-- end .part03 -->
-    	<div class="part04">
-    		<div class="sqr">Les<br> plus</div>
-    		<div class="content_offres">
-    			<p>Création de vos comptes sociaux et des visuels.</p>
-    <p>+ Développement sur mesure pour vos sites web.</p>
-    <p>+ Analyse stratégique et référencement de vos sites internet.</p>		</div>
-    	</div><!-- end .part04 -->
+    			<p>1 community manager</p>
+                <p>dédié à votre projet.</p>
+    	</div>
+        <p class="prix">699<sup>€ HT </sup>/ mois</p>
+    		</div>
+        </div><!-- end .part03 -->
       </div> <!-- end .sec_container -->
     </section>
     	</div> <!-- End #wrapper -->
