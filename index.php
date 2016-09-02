@@ -15,7 +15,7 @@
         	<header>
                 <div class="header_container">
                     <div id="logo">
-                        <img src="img/logo.png" style=" margin-left: 20px;width: 160px; height: 150px;" alt="Community management" title="Community Manager "></a>
+                        <img src="img/logo.png" style=" margin-left: 20px; margin-top: 15px; width: 160px; height: 150px;" alt="Community management" title="Community Manager "></a>
                      </div> <!-- end logo -->
                      <div id="img_slogan">
                          <img src="img/groupe.png" style="width:480px;height:245px;margin-top:-30px;float:left;"></a>
@@ -102,28 +102,46 @@
       <div class="h2">Les Offres</div>
       <div class="sec_container">
     	<div class="part01">
-    		<div class="sqr">Pack Découverte
+    		<div class="sqr"><h3>Pack Découverte</h3>
     		<div class="content_offres">
-    			<p>- 1 demi journée / semaine</p>
-                <p>- 1 article / mois</p>
+                <p>- Création du compte fb avec logo et photo</p>
+                <p>- Journal quotidien</p>
+                <p>- Météo locale quotidienne</p>
+                <p>- Informations du Week-End</p>
+                <p>- Gestion des messages quotidiens</p>
+                <p>- 1 rdv hebdomadaire</p>
     	   </div>
         <p class="prix">299<sup>€ HT </sup>/ mois</p>
             </div>
     	</div><!-- end .part01 -->
     	<div class="part02">
-    		<div class="sqr">Pack Sérénité
+    		<div class="sqr"><h3>Pack Sérénité</h3>
     		<div class="content_offres">
-    			<p>- 2 heures / jour</p>
-                <p>- 1 article / semaine</p>
+    			<p>- Création du compte fb avec logo et photo</p>
+                <p>- Journal quotidien</p>
+                <p>- Météo locale quotidienne</p>
+                <p>- Informations du Week-End</p>
+                <p>- Centralisation de toutes les associations</p>
+                <p>- Gestion des messages quotidiens</p>
+                <p>- 2 mises en avant mensuelles</p>
+                <p> - 1 rdv hebdomadaire</p>
             </div>
         <p class="prix">499<sup>€ HT </sup>/ mois</p>
             </div>
     	</div><!-- end .part02 -->
     	<div class="part03">
-    		<div class="sqr">Pack Prestige
+    		<div class="sqr"><h3>Pack Prestige</h3>
     		<div class="content_offres">
-    			<p>1 community manager</p>
-                <p>dédié à votre projet.</p>
+    			<p>- Création du compte fb avec logo et photo</p>
+                <p>- Journal quotidien</p>
+                <p>- Météo locale quotidienne</p>
+                <p>Informations du Week-End</p>
+                <p>- Centralisation de toutes les associations</p>
+                <p>- Gestion des messages quotidiens</p>
+                <p>- 4 mises en avant mensuelles</p>
+                <p>- Animation quotidienne</p>
+                <p>- Création d’évènements</p>
+                <p>- 1 rdv hebdomadaire</p>
     	</div>
         <p class="prix">699<sup>€ HT </sup>/ mois</p>
     		</div>
