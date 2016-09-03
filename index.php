@@ -82,13 +82,13 @@
         <div class="sec_container">
             <div class="part01">
                     <h2><img src="img/part1.png" alt="Agence Community management"></h2>
-                    <div class="h3">Une ligne éditotiale claire</div>
-    <p style="text-align:justify">Au cœur de toute démarche de communication web, une ligne éditoriale est essentielle pour être efficace et pertinent dans votre approche. Informer, promouvoir divertir ou  convertir - vos objectifs seront étudiés et nous développons un ensemble de règles claires pour la création de votre contenu. Ce fil conducteur assurera le reflet de votre commune, votre philosophie et vos aspirations!</p>
+                    <div class="h3">Communication Digitale</div>
+    <p style="text-align:justify">Une communication digitale est essentielle pour être efficace et pertinent dans votre approche d'élu. Informer, promouvoir, divertir et réunir. Vos objectifs seront étudiés et je développerai un ensemble de règles claires pour la création de votre contenu digital. Ce fil conducteur assurera le reflet de votre commune, votre philosophie, vos aspirations.</p>
     </div><!-- end .part01 -->
                 <div class="part02">
                     <h2><img src="img/part2.png" alt="Action sur les réseaux sociaux"></h2>
-                    <div class="h3">Un champ d'action immense</div>
-    <p>Être sur le web et les réseaux sociaux, n’est pas une chose anodine pour une collectivité. Cela implique l’image de marque donc une attention permanente et surtout différentes compétences pour rentabiliser concrètement cet investissement dans la sphère virtuelle. Rien n’est laissé au hasard pour optimiser et apporter vitalité à votre présence en ligne.</p>
+                    <div class="h3">Etre vu, lu , entendu</div>
+    <p>Optimiser et apporter une vitalité à votre présence sur les réseaux sociaux est primordial en tant que collectivité. Votre image de marque demande une attention permanente et surtout différentes compétences. Ma connaissance des collectivités et de leur mode de fonctionnement me  permettra de dynamiser votre commune.</p>
           </div><!-- end .part02 -->
                 <div class="part03">
                     <h2><img src="img/part3.png" alt="échanges sur les medias sociaux"></h2>
@@ -102,7 +102,7 @@
       <div class="h2">Les Offres</div>
       <div class="sec_container">
     	<div class="part01">
-    		<div class="sqr"><h3>Pack Découverte</h3>
+    		<div class="sqr"><h3>Pack Essentiel</h3>
     		<div class="content_offres">
                 <p>- Création du compte fb avec logo et photo</p>
                 <p>- Journal quotidien</p>
@@ -111,7 +111,7 @@
                 <p>- Gestion des messages quotidiens</p>
                 <p>- 1 rdv hebdomadaire</p>
     	   </div>
-        <p class="prix">299<sup>€ HT </sup>/ mois</p>
+        <p class="prix">249<sup>€ HT </sup>/ mois</p>
             </div>
     	</div><!-- end .part01 -->
     	<div class="part02">
@@ -126,7 +126,7 @@
                 <p>- 2 mises en avant mensuelles</p>
                 <p> - 1 rdv hebdomadaire</p>
             </div>
-        <p class="prix">499<sup>€ HT </sup>/ mois</p>
+        <p class="prix">429<sup>€ HT </sup>/ mois</p>
             </div>
     	</div><!-- end .part02 -->
     	<div class="part03">
@@ -143,7 +143,7 @@
                 <p>- Création d’évènements</p>
                 <p>- 1 rdv hebdomadaire</p>
     	</div>
-        <p class="prix">699<sup>€ HT </sup>/ mois</p>
+        <p class="prix">599<sup>€ HT </sup>/ mois</p>
     		</div>
         </div><!-- end .part03 -->
       </div> <!-- end .sec_container -->
@@ -161,7 +161,7 @@
     17 rue Edouard Manet<br>
     11110 COURSAN</p>
     <p>Téléphone : 06.18.75.27.14</p>
-    <p>Mail : lambertyael@aol.com</p>
+    <p>Mail : lambertyael11@gmail.com</p>
     				</div>
     				<div id="form">
     					<form name="contact" action="insert_form.php" method="POST">

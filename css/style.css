@@ -313,7 +313,7 @@ nav a:hover, nav a:active {
 	color: #ffffff;
 	text-decoration: none;
 	padding:10px 15px;
-	background: #1d8ab8;
+	background: #517fa4;
 	display: inline-block;
 	text-transform: capitalize;
 }
@@ -327,7 +327,7 @@ nav a:hover, nav a:active {
 }
 
 .carousel-inner .item .carousel-caption p:last-child {
-	color: #1D8AB8;
+	color: #517fa4;
 	background: none;
 	font-weight: bold;;
 }
@@ -370,7 +370,7 @@ nav a:hover, nav a:active {
 color: #1D8AB8;
 }
 *[id*="section01"] h2, *[id*="section01"] h2, *[id*="section01"] .h2, *[id*="section01"] .h2 {
-	color: #d00e30;
+	color: #cb2027;/*pinterest*/
 }
 
 *[id*="section0"] h2:after, footer h2:after,
@@ -458,7 +458,7 @@ color: #1D8AB8;
 /************************parts*/
 
 #section02 *[class*="part"] {
-	background: #575756;
+	background: #737d82;
 	height: 700px;
 	width: 28%;
 	position: relative;
@@ -484,7 +484,7 @@ color: #1D8AB8;
 	text-transform: uppercase;
 }
 
-.part01 .sqr {
+/*.part01 .sqr {
 	color: #A0CAE7;
 }
 
@@ -494,7 +494,7 @@ color: #1D8AB8;
 
 .part03 .sqr {
 	color: #558ED5;
-}
+}*/
 
 
 .content_offres {
@@ -540,15 +540,26 @@ color: #1D8AB8;
 }
 
 .part01 .content_offres {
-	background: #A0CAE7;
+	background: #00aced;/*Twitter*/
 }
 
 .part02 .content_offres {
-	background: #70B3C8;
+	background: #517fa4;/*Instagram*/
 }
 
 .part03 .content_offres {
-	background: #558ED5;
+	background: #3b5998;/*Facebook*/
+}
+.part01 h3 {
+	color: : #00aced;/*Twitter*/
+}
+
+.part02 h3 {
+	color: : #517fa4;/*Instagram*/
+}
+
+.part03 h3 {
+	color: #3b5998;/*Facebook*/
 }
 
 
@@ -573,7 +584,7 @@ color: #1D8AB8;
 
 footer {
 	min-height: 385px;
-	background: #1d8ab8;
+	background: #007bb6;/*LinkedIn*/
 	text-align: center;
 	padding: 25px 0;
 }
@@ -757,7 +768,7 @@ footer textarea {
 	color: #ffffff;
 	text-transform: uppercase;
 	margin-bottom: 15px;
-	background: #d00e30;
+	background: #cb2027;/*pinterest*/
 	margin-right: -80px;
  	padding: 22px 6px;
   	margin-top: 58px;
