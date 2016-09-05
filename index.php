@@ -14,40 +14,46 @@
 		<div id="wrapper">
         	<header>
                 <div class="header_container">
-                    <div id="logo">
-                        <img src="img/logo.png" style=" margin-left: 20px; margin-top: 15px; width: 160px; height: 150px;" alt="Community management" title="Community Manager "></a>
+                    <!--<div id="logo">
+                        <img src="img/mehdi.jpg" style=" margin-left: 20px; margin-top: 15px; width: 160px; height: 150px;" alt="Community management" title="Community Manager "></a>
                      </div> <!-- end logo -->
-                     <div id="img_slogan">
+                     <!--<div id="img_slogan">
                          <img src="img/groupe.png" style="width:480px;height:245px;margin-top:-30px;float:left;"></a>
                      </div>
                     <div id="slogan">
                         <h2 class="h3">Un véritable <span class="italic">community manager</span><br> à votre disposition</h2>
-                        <div class="cro-increase-button cro-scale"><a href="#footer" title="Contact">Contactez moi</a></div>
+
                     </div><!-- end img_slogan -->
-                    <div class="clearer"></div>
-                       <nav>
-                            <div class="nav_container">
-                                <a href="http://localhost/community%20manager/" title="Accueil">Accueil</a>
-                                <a href="#section01" title="Philosophie" class="scroll-link">Philosophie</a>
-                                <a href="#section02" title="Les offres" class="scroll-link">Les offres</a>
-                            </div><!-- end nav_container -->
-                       </nav> <!-- end nav -->
+
+
                     </div> <!-- end header_container -->
-            </header> <!-- end header -->
+</header> <!-- end header -->
+
+                    <nav>
+                         <div class="nav">
+                             <a href="http://localhost/community%20manager/" title="Accueil">Accueil</a>
+                             <a href="#section01" title="Philosophie" class="scroll-link">Philosophie</a>
+                             <a href="#section02" title="Les offres" class="scroll-link">Les offres</a>
+                             <a href="#footer" class="button" title="Contact" id="contact"></a>
+
+                         </div><!-- end nav_container -->
+                    </nav> <!-- end nav -->
+
+
 
             <section id="diapo" class="">
     	<div id="sshow" class="sec_container carousel slide">
     		<!-- Wrapper for slides -->
     		<div class="carousel-inner">
     			<div class="item active">
-    				<img src="img/images.png" style="max-height:350px">
+    				<img src="img/01c.jpg" style="height:350px">
     				<div class="carousel-caption">
     					<p>Passez le relais</p><br>
     					<p> à un communiquant</p><br>
     					<p>entièrement dédié</p>
     				</div>
     			</div>
-    			<div class="item">
+    			<div class="item ">
     				<img src="img/02.jpg">
     				<div class="carousel-caption">
     					<p>Une Connaissance</p><br>
@@ -81,17 +87,17 @@
         <!-- CORPS -->
         <div class="sec_container">
             <div class="part01">
-                    <h2><img src="img/part1.png" alt="Agence Community management"></h2>
+                    <h1><img src="img/part1.png" alt="Agence Community management"></h1>
                     <div class="h3">Communication Digitale</div>
     <p style="text-align:justify">Une communication digitale est essentielle pour être efficace et pertinent dans votre approche d'élu. Informer, promouvoir, divertir et réunir. Vos objectifs seront étudiés et je développerai un ensemble de règles claires pour la création de votre contenu digital. Ce fil conducteur assurera le reflet de votre commune, votre philosophie, vos aspirations.</p>
     </div><!-- end .part01 -->
                 <div class="part02">
-                    <h2><img src="img/part2.png" alt="Action sur les réseaux sociaux"></h2>
+                    <h1><img src="img/part2.png" alt="Action sur les réseaux sociaux"></h1>
                     <div class="h3">Etre vu, lu , entendu</div>
     <p>Optimiser et apporter une vitalité à votre présence sur les réseaux sociaux est primordial en tant que collectivité. Votre image de marque demande une attention permanente et surtout différentes compétences. Ma connaissance des collectivités et de leur mode de fonctionnement me  permettra de dynamiser votre commune.</p>
           </div><!-- end .part02 -->
                 <div class="part03">
-                    <h2><img src="img/part3.png" alt="échanges sur les medias sociaux"></h2>
+                    <h1><img src="img/part3.png" alt="échanges sur les medias sociaux"></h1>
                     <div class="h3">Une relation de confiance</div>
     <p>Le savoir-faire est loin d’être le seul élément de la réussite d’un projet web : La confiance, la transparence et la proximité sont autant de valeurs que je prône pour garantir votre succès. Ma garantie : une confiance à tous les niveaux. Comment? En apprenant à vous connaitre et en vous présentant mon efficacité au travail.</p>
        </div><!-- end .part03 -->

@@ -26,14 +26,17 @@ body {
  margin: 0 auto;
  font-size: 14px;
 }
+@font-face {
+	font-family: "exmouth";
+	src: url('../exmouth.ttf');
+}
 
 header {
  position: relative;
- background: url("../img/bg-header1.png") top center no-repeat;
+ background: url("../img/bg-header3.png") top center no-repeat;
  width: 100%;
  height: 259px;
  margin-bottom: 0;
- z-index: 2;
 }
 
 *[class*="container"]{
@@ -48,7 +51,7 @@ header {
 
 /*************************************************************************************************Header*/
 .header_container {
- /*padding: 18px 0 0;*/
+padding: 230px 0 0;
 }
 
 #logo {
@@ -85,20 +88,21 @@ header {
 nav {
 	width: 100%;
 	text-align: center;
-	margin: 0 0 4.1%;
+	margin: 0 0 1%;
 }
 
 .nav_container {
 	padding:  0 0;
+	/*background-color: yellow;*/
 }
 
 nav a {
-	font: 500 1.8em/1em "allerregular",sans-serif;
-	color: #575756;
-	text-transform:uppercase;
+	font: 500 3.4em/1.6em "exmouth",sans-serif;
+	color: #CB2027;
+	text-transform:capitalize;;
 	text-decoration: none;
 	padding: 1%;
-	margin: 0 3%;
+	margin: 0 4% 0 5%;
 	background: none;
 	-webkit-transition: all 500ms ease-out 0s;
 	transition: all 500ms ease-out 0s;
@@ -115,7 +119,7 @@ nav a:hover, nav a:active {
 	width: 100%;
 	height: 350px;
 	overflow: hidden;
-	margin: 19px auto 0;
+	margin: 0 auto 0;
 	padding-bottom: 50px;
 	background: url("../img/bg-diapo.png") top center no-repeat;
 }
@@ -309,7 +313,7 @@ nav a:hover, nav a:active {
 }
 
 .carousel-caption p {
-	font: 400 1.92em/1em 'exobold', sans-serif;
+	font: 400 1.7em/1em 'exobold', sans-serif;
 	color: #ffffff;
 	text-decoration: none;
 	padding:10px 15px;
@@ -357,8 +361,8 @@ nav a:hover, nav a:active {
 *[id*="section0"] h2, *[id*="section0"] .h2, footer h2, footer .h2 {
 	position: relative;
 	display: inline-block;
-	text-transform: uppercase;
-	font: 500 2.8em/1em 'exolight', sans-serif;
+	text-transform: capitalize;;
+	font: 500 5.8em/1em 'exmouth', sans-serif;
 	text-align: center;
 	color: #ffffff;
 	padding-bottom: 10px;
@@ -400,25 +404,23 @@ color: #1D8AB8;
 	background: url("../img/starBlue.png") top center no-repeat;
 }
 
-*[id*="section04"] h2:after,
-
-*[id*="section04"] .h2:after{
-	background:#575756 url("../../img/charte/starWhite.png") top center no-repeat;
-}
-
 /**************************************************section01*/
 
 #section01 {
 	background: #737d82;
 }
 
+#section01 [class*="part"] {
+	margin: 1% 4.5% 1% 4.5%;
+}
+
 /************************parts*/
 
 *[class*="part"] {
 	display: inline-block;
-	margin: 3% 2.6% 0;
+	margin: 0% 2.6% 0;
 	text-align: center;
-	width: 22%;
+	width: 24%;
 	vertical-align: top;
 }
 *[class*="part"]:nth-of-type(1) {
@@ -737,11 +739,33 @@ footer textarea {
 	border: 0 none;
 	vertical-align: middle;
 	text-decoration: none;
+	cursor: pointer;
 }
 
 /**************************************************************************************************Lightbox*/
+#contact.button{
+	display: inline-block;
+	height: 14px;
+	width: 90px;
+	border-radius: 15px;
+	box-shadow: 7px 7px #737d82;
+	background: url("../img/bouton-contact.png")center no-repeat;
+	background-size: contain;
+}
 
-@-webkit-keyframes cro-scale {
+#contact.button:hover{
+	height: 11px;
+	width: 80px;
+	border-radius: 15px;
+	box-shadow: 7px 7px #737d82;
+	background-image: url("../img/bouton-contact2.png");
+}
+#contact{
+	background: none;
+
+}
+
+/*@-webkit-keyframes cro-scale {
 	20% { -webkit-transform: scale(1); }
 	30% { -webkit-transform: scale(1.2); }
 	40% { -webkit-transform: scale(0.8); }
